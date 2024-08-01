@@ -1,5 +1,10 @@
 export const USER = "user";
+export const CUSTOMER = "customer";
 export const GET_USER = "get_user";
 export const POST_USER = "post_user";
 export const UPDATES_USER = "update_user";
 export const DELETE_USER = "delete_user";
+export const Get_Customer = "get_customer";
+export const Post_Customer = "post_customer";
+export const Update_Customer = "update_customer";
+export const Upload_file = "upload_file";
